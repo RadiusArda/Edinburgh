@@ -108,7 +108,6 @@ python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278
 python-language-server @ file:///tmp/build/80754af9/python-language-server_1607972495879/work
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
-pywin32==228
 pywin32-ctypes @ file:///C:/ci/pywin32-ctypes_1594392691209/work
 pywinpty==0.5.7
 PyYAML==5.4.1
@@ -140,7 +139,6 @@ sphinxcontrib-serializinghtml @ file:///tmp/build/80754af9/sphinxcontrib-seriali
 spyder @ file:///C:/ci/spyder_1626182175529/work
 spyder-kernels @ file:///C:/ci/spyder-kernels_1625671145829/work
 tabulate==0.8.9
-terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 text-unidecode==1.3
 textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
