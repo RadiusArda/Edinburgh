@@ -2,7 +2,7 @@ alabaster==0.7.12
 anyio==3.3.1
 appdirs==1.4.4
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613038019788/work
+#argon2-cffi @ file:///C:/ci/argon2-cffi_1613038019788/work
 arrow==0.13.1
 astroid @ file:///C:/ci/astroid_1628063231892/work
 async-generator==1.10
