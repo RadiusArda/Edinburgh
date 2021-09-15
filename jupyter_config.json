@@ -1,6 +1,6 @@
 {
   "voila": {
     "theme": "dark",
-    "strip_sources": false
+    "strip_sources":"False"
   }
 }
