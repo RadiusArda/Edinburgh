@@ -1,5 +1,6 @@
 {
-  "VoilaConfiguration": {
+  "voila": {
     "theme": "dark",
+    "strip_sources":false
   }
 }
