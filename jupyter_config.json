@@ -1,6 +1,11 @@
 {
   "voila": {
     "theme": "dark",
-    "strip_sources":false
+    "strip_sources":{
+      "title": "Strip Sources",
+      "description": "Show or hide input cells",
+      "default": false,
+      "type": "boolean"
+    }
   }
 }
