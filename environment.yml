@@ -53,7 +53,7 @@ dependencies:
   - ipykernel
   - ipython
   - ipython_genutils
-  - ipywidgets
+  - ipywidgets==7.6.3
   - isort
   - jedi
   - jinja2
