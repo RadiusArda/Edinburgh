@@ -1,6 +1,13 @@
 {
-  "VoilaConfiguration": {
-    "theme": "dark",
-    "strip_sources": "False"
-  }
+    "VoilaConfiguration": {
+
+        "enable_nbextensions": true,
+        "strip_sources": false,
+        "extension_language_mapping": {
+            ".py": "python",
+        },
+        "language_kernel_mapping": {
+            "python": "python3"
+        }
+    }
 }
