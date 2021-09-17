@@ -1,5 +1,6 @@
 {
     "VoilaConfiguration": {
         "strip_sources": false,
+        "theme": "light"
     }
 }
